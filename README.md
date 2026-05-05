@@ -1,5 +1,5 @@
 # js_catch_the_mouse_game
-<p>A simple game made using html, inline css & javascript where we have click the yellow dot to increase score which changes position random and I also made a timer which stops the game and displays the score</p>
+<p>A simple click-based game made using html, inline css & javascript where you hit a moving target to score points within a time limit</p>
 <h4>Here how it works : http://127.0.0.1:5500/mini_projects/04%20-%20html+css+js/mouse%20game.html</h4>
 My high score is 37, Let's see what you are getting ☺️
 
