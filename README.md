@@ -6,7 +6,7 @@ A simple click-based game built using HTML, CSS, and JavaScript where the player
 🔗 https://lukman2458.github.io/js-catch-the-mouse-game/
 
 ## 📸 Preview
-![Game Preview](screenshot.png)
+![Game Preview](mouse.PNG)
 
 ## 🛠️ Features
 - Click-based interactive gameplay
