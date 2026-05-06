@@ -1,9 +1,21 @@
-# js_catch_the_mouse_game
-<p>A simple click-based game made using html, inline css & javascript where you hit a moving target to score points within a time limit</p>
-<h4>Here how it works : http://127.0.0.1:5500/mini_projects/04%20-%20html+css+js/mouse%20game.html</h4>
-My high score is 37, Let's see what you are getting ☺️
+# 🎯 Catch the Mouse Game
 
-<h3>Skills I learned in this project</h3>
-<h5>*Adding timers using javascript</h5>
-<h5>*Adding creative fonts for my work</h5>
-<h5>*Making computer to choose random values</h5>
+A simple click-based game built using HTML, CSS, and JavaScript where the player hits a moving target to score points within a limited time.
+
+## 🚀 Live Demo
+🔗 https://lukman2458.github.io/js-catch-the-mouse-game/
+
+## 📸 Preview
+![Game Preview](screenshot.png)
+
+## 🛠️ Features
+- Click-based interactive gameplay
+- Moving target with random positions
+- Timer-based scoring system
+- Score tracking
+
+## 📚 What I Learned
+- Implementing timers using JavaScript
+- Generating random positions dynamically
+- Handling user click events
+- Improving UI with custom fonts
