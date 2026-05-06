@@ -1,6 +1,6 @@
 # 🎯 Catch the Mouse Game
 
-A simple click-based game built using HTML, CSS, and JavaScript where the player hits a moving target to score points within a limited time.
+A simple click-based game built using HTML, CSS, and JavaScript where the player clicks a moving target to score points within a limited time.
 
 ## 🚀 Live Demo
 🔗 https://lukman2458.github.io/js-catch-the-mouse-game/
