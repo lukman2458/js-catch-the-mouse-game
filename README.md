@@ -12,7 +12,7 @@ A simple click-based game built using HTML, CSS, and JavaScript where the player
 - Click-based interactive gameplay
 - Moving target with random positions
 - Timer-based scoring system
-- Score tracking
+- Real-time Score tracking
 
 ## 📚 What I Learned
 - Implementing timers using JavaScript
